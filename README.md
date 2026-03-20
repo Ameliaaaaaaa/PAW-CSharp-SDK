@@ -205,7 +205,7 @@ catch (APIException ex)
 
 ## Technologies Used
 
-- [.NET 8](https://dotnet.microsoft.com)
+- [.NET 9](https://dotnet.microsoft.com)
 - [System.Text.Json](https://learn.microsoft.com/en-us/dotnet/api/system.text.json)
 - [System.Net.Http](https://learn.microsoft.com/en-us/dotnet/api/system.net.http)
 
